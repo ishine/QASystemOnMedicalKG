@@ -49,6 +49,7 @@ build_medicalgraph.py：知识图谱入库脚本    　　
 | Symptom | 疾病症状 | 5,998 |  乳腺组织肥厚;脑实质深部出血|
 | Total | 总计 | 44,111 | 约4.4万实体量级|
 
+
 1.3.3 知识图谱实体关系类型
 
 | 实体关系类型 | 中文含义 | 关系数量 | 举例|
@@ -200,4 +201,7 @@ chatbot_graph.py：问答程序脚本
 If any question about the project or me ,see https://liuhuanyong.github.io/
 
 
-
+如有自然语言处理、知识图谱、事理图谱、社会计算、语言资源建设等问题或合作，可联系我：    
+1、我的github项目介绍：https://liuhuanyong.github.io  
+2、我的csdn博客：https://blog.csdn.net/lhy2014  
+3、about me:刘焕勇，中国科学院软件研究所，lhy_in_blcu@126.com  
